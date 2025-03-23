@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">学生信息管理系统</string>
+    <string name="home">首页</string>
+    <string name="search">查询</string>
+    <string name="import">导入</string>
+    <string name="take_photo">拍照记录</string>
+    <string name="record_audio">语音记录</string>
+    <string name="history">历史记录</string>
+    <string name="student_id">学号</string>
+    <string name="student_name">姓名</string>
+    <string name="project_name">项目名称</string>
+    <string name="class_name">班级</string>
+    <string name="department">院系</string>
+    <string name="search_student">查询学生</string>
+    <string name="import_excel">导入Excel</string>
+    <string name="search_result">查询结果</string>
+    <string name="import_success">导入成功</string>
+    <string name="import_failed">导入失败</string>
+    <string name="select_file">选择文件</string>
+    <string name="file_format_requirements">Excel文件格式要求</string>
+</resources> 
